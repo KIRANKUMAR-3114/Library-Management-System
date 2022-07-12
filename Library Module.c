@@ -106,16 +106,10 @@ int main()
                   }
             }
             else if(a==2)
-            {
                   Issue();
-            }
             else if(a==3)
-            {
                  ViewIssued();
-            }
             else if(a==4)
-            {
                  Return();
-            }
       }
 }
